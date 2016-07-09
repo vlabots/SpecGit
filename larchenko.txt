@@ -1,0 +1,4 @@
+first name: Konstantin
+last name: Larchenko
+birthday: 03.01.1988
+role: Developer ATM scenarios
